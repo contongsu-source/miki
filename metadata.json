@@ -1,0 +1,7 @@
+{
+  "name": "Employee Management & Finance System",
+  "description": "A comprehensive business management application inspired by modern mobile banking and utility apps. Features include QR attendance, financial tracking, invoicing, and payslip generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
